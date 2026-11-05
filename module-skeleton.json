@@ -1,0 +1,25 @@
+{
+  "repository": "module-currency-context-vue-inertia",
+  "capabilityKey": "liberusoftware/currency-context",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-currency-context-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/boilerplate/nextjs/currency-context.md",
+  "presentationPlan": "projects/boilerplate/vue/currency-context.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
